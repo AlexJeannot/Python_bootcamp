@@ -1,0 +1,5 @@
+pip list
+pip list --format columns
+pip show --verbose numpy
+pip search tesseract
+pip freeze -r requirements.txt
