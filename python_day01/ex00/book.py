@@ -20,7 +20,6 @@ class Book:
             if elem.recipe_type == recipe_type:
                 print(elem)
                 print("\n")
-        return 0
 
     def add_recipe(self, recipe, cook_lvl, cook_time, ingredients_list, descrip, recipe_type):
 #        cook_lvl = input("What is the cooking level ?\n>> ")
