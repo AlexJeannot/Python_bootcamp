@@ -1,0 +1,128 @@
+{
+    "Observation_2": {
+        "Height(in)": "68", 
+        "Age": "42", 
+        "Name": "Bert", 
+        "Weight(lbs)": "166", 
+        "Sex": "M"
+    }, 
+    "Observation_3": {
+        "Height(in)": "70", 
+        "Age": "32", 
+        "Name": "Carl", 
+        "Weight(lbs)": "155", 
+        "Sex": "M"
+    }, 
+    "Observation_1": {
+        "Height(in)": "74", 
+        "Age": "41", 
+        "Name": "Alex", 
+        "Weight(lbs)": "170", 
+        "Sex": "M"
+    }, 
+    "Observation_6": {
+        "Height(in)": "66", 
+        "Age": "33", 
+        "Name": "Fran", 
+        "Weight(lbs)": "115", 
+        "Sex": "F"
+    }, 
+    "Observation_7": {
+        "Height(in)": "64", 
+        "Age": "26", 
+        "Name": "Gwen", 
+        "Weight(lbs)": "121", 
+        "Sex": "F"
+    }, 
+    "Observation_4": {
+        "Height(in)": "72", 
+        "Age": "39", 
+        "Name": "Dave", 
+        "Weight(lbs)": "167", 
+        "Sex": "M"
+    }, 
+    "Observation_5": {
+        "Height(in)": "66", 
+        "Age": "30", 
+        "Name": "Elly", 
+        "Weight(lbs)": "124", 
+        "Sex": "F"
+    }, 
+    "Observation_8": {
+        "Height(in)": "71", 
+        "Age": "30", 
+        "Name": "Hank", 
+        "Weight(lbs)": "158", 
+        "Sex": "M"
+    }, 
+    "Observation_9": {
+        "Height(in)": "72", 
+        "Age": "53", 
+        "Name": "Ivan", 
+        "Weight(lbs)": "175", 
+        "Sex": "M"
+    }, 
+    "Observation_14": {
+        "Height(in)": "75", 
+        "Age": "36", 
+        "Name": "Neil", 
+        "Weight(lbs)": "160", 
+        "Sex": "M"
+    }, 
+    "Observation_15": {
+        "Height(in)": "70", 
+        "Age": "38", 
+        "Name": "Omar", 
+        "Weight(lbs)": "145", 
+        "Sex": "M"
+    }, 
+    "Observation_16": {
+        "Height(in)": "67", 
+        "Age": "31", 
+        "Name": "Page", 
+        "Weight(lbs)": "135", 
+        "Sex": "F"
+    }, 
+    "Observation_17": {
+        "Height(in)": "71", 
+        "Age": "29", 
+        "Name": "Quin", 
+        "Weight(lbs)": "176", 
+        "Sex": "M"
+    }, 
+    "Observation_10": {
+        "Height(in)": "69", 
+        "Age": "32", 
+        "Name": "Jake", 
+        "Weight(lbs)": "143", 
+        "Sex": "M"
+    }, 
+    "Observation_11": {
+        "Height(in)": "69", 
+        "Age": "47", 
+        "Name": "Kate", 
+        "Weight(lbs)": "139", 
+        "Sex": "F"
+    }, 
+    "Observation_12": {
+        "Height(in)": "72", 
+        "Age": "34", 
+        "Name": "Luke", 
+        "Weight(lbs)": "163", 
+        "Sex": "M"
+    }, 
+    "Observation_13": {
+        "Height(in)": "62", 
+        "Age": "23", 
+        "Name": "Myra", 
+        "Weight(lbs)": "98", 
+        "Sex": "F"
+    }, 
+    "Observation_18": {
+        "Height(in)": "65", 
+        "Age": "28", 
+        "Name": "Ruth", 
+        "Weight(lbs)": "131", 
+        "Sex": "F"
+    }
+}
