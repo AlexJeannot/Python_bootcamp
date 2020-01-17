@@ -44,9 +44,9 @@ class ColorFilter:
 
     def to_blue(self):
         array = self.get_array()
-        array[:, :, 0:1] = 0
-        array[:, :, 1:2] = array[:, :, 1:2] * 0.8
-        array[:, :, 2:3] = 255
+        array[:, :, 0:1] = array[:, :, 0:1] * 0.8
+        array[:, :, 1:2] = array[:, :, 1:2] * 0.5
+        array[:, :, 2:3] = 150
         print(array)
         self.display(array)
 
@@ -58,17 +58,17 @@ class ColorFilter:
 
     def to_red(self):
         array = self.get_array()
-        array[:, :, 0:1] = 220
-        array[:, :, 1:2] = array[:, :, 1:2] * 0.4
-        array[:, :, 2:3] = array[:, :, 2:3] * 0.4
+        array[:, :, 0:1] = 150
+        array[:, :, 1:2] = array[:, :, 1:2] * 0.8
+        array[:, :, 2:3] = array[:, :, 2:3] * 0.8
         print(array)
         self.display(array)
 
     def to_green(self):
         array = self.get_array()
-        array[:, :, 0:1] = array[:, :, 1:2] * 0.5
-        array[:, :, 1:2] = 200
-        array[:, :, 2:3] = array[:, :, 2:3] * 0.7
+        array[:, :, 0:1] = array[:, :, 1:2] * 0.8
+        array[:, :, 1:2] = 130
+        array[:, :, 2:3] = array[:, :, 2:3] * 0.8
         print(array)
         self.display(array)
 
