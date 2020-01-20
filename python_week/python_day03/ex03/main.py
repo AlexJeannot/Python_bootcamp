@@ -1,0 +1,15 @@
+from ColorFilter import ColorFilter
+
+obj = ColorFilter("test.png")
+obj2 = ColorFilter("test2.png")
+obj3 = ColorFilter("test3.png")
+obj4 = ColorFilter("test4.png")
+obj5 = ColorFilter("test5.png")
+obj6 = ColorFilter("test6.png")
+obj7 = ColorFilter("test7.png")
+obj.invert()
+obj2.to_blue()
+obj4.to_red()
+obj5.to_green()
+obj6.celluloid()
+obj7.to_gray()
